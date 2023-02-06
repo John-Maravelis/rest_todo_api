@@ -1,6 +1,6 @@
 # This is a Todo list RESTful API for the purposes of the university class "SaaS".
 
-## The project is installed on [todos_api](https://www.google.com "click me")
+The project is installed on [todos_api](https://www.google.com "click me")
 
 TDD is used and the tests are checked with [httpie](https://httpie.io/ "httpie").
 The API is documented using openapi [Swagger](https://swagger.io/ "Swagger")
